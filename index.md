@@ -50,5 +50,5 @@ layout: default
 - *Durée* : 1 an après M1 physique ou diplôme d'ingénieur ou validation des enseignements théoriques du DES de Médecine Nucléaire ou du DES de Radiodiagnostic
 - *Site web* : <https://www.universite-paris-saclay.fr/formation/master/electronique-energie-electrique-automatique/m2-imagerie-biomedicale>
 
-## Références
+## *Références*
 [INSTN - Page du DQPRM](http://www-instn.cea.fr/formations/diplomes-et-titres/liste-des-diplomes-et-titres/diplome-de-qualification-en-physique-radiologique-et-medicale-dqprm,13.html)
