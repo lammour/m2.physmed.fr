@@ -52,4 +52,5 @@ layout: default
 
 ## *Références*
 [INSTN - Page du DQPRM](http://www-instn.cea.fr/formations/diplomes-et-titres/liste-des-diplomes-et-titres/diplome-de-qualification-en-physique-radiologique-et-medicale-dqprm,13.html)
+
 [Arrêté du 19 juillet 2017](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000035260451)
