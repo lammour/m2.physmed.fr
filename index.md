@@ -8,7 +8,6 @@ layout: default
 
 ### Rennes
 - *Nom complet* : Master physique fondamentale et applications parcours physique médicale
-- *Nom complet* : 
 - *Durée* : 2 ans
 - *Site web* : https://spm.univ-rennes1.fr/parcours-physique-medicale
 
