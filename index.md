@@ -53,7 +53,7 @@ layout: default
 - *Site web* : <http://www.physique-ingenierie.unistra.fr/spip.php?rubrique41>
 
 ### Montpellier : Master PhyMed
-- *Nom complet* : Master Sciences et Numérique pour la Santé spécialité PhyMed Physique pour le bioMédical
+- *Nom complet* : Master Sciences et Numérique pour la Santé parcours Physique Biomédicale
 - *Durée* : 2 ans
 - *Conditions d'admission* : 
   - M1 : L3 ou équivalent en physique, biologie, santé ou autres disciplines voisines.
