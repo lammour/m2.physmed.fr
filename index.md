@@ -46,13 +46,13 @@ layout: default
 - *Conditions d'admission* : M1 physique ou diplôme d'ingénieur ou validation des enseignements théoriques du DES de Médecine Nucléaire ou du DES de Radiodiagnostic
 - *Site web* : <https://www.universite-paris-saclay.fr/formation/master/electronique-energie-electrique-automatique/m2-imagerie-biomedicale>
 
-### Strasbourg : Master PRIDI
+### Strasbourg : M2 PRIDI
 - *Nom complet* : Master Physique parcours Physique des rayonnements, détecteurs, instrumentation et imagerie
 - *Durée* : 1 an
 - *Conditions d'admission* : M1 mention physique ou élèves d'écoles d'ingénieurs 
 - *Site web* : <http://www.physique-ingenierie.unistra.fr/spip.php?rubrique41>
 
-### Montpellier : Master PhyMed
+### Montpellier : M1-M2 PhyMed
 - *Nom complet* : Master Sciences et Numérique pour la Santé parcours Physique Biomédicale
 - *Durée* : 2 ans
 - *Conditions d'admission* : 
