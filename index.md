@@ -25,18 +25,18 @@ layout: default
 
 ### Paris Saclay
 - *Nom complet* : M2 Radiophysique Médicale
-- *Durée* : 1 an
+- *Durée* : 1 an après un M1 physique fondamentale ou physique appliquée, de Paris-Saclay ou d'un autre établissement.
 - *Site web* : <https://www.universite-paris-saclay.fr/formation/master/physique/m2-radiophysique-medicale>
 
 ### Lille I
 - *Nom complet* : MASTER PHYSIQUE FONDAMENTALE ET APPLICATIONS - Parcours Physique médicale (M2)
-- *Durée* : 1 an
+- *Durée* : 1 an après le M1 Physique de l'Université de Lille ou équivalent
 - *Site web* : <https://www.univ-lille.fr/formations/fr-00002075.html>
 
 ### Clermont-Ferrand
 - *Nom complet* : Master 2 Ingénierie Nucléaire – Physique et Technologies des Rayonnements pour l’Industrie et la Physique Médicale
-- *Durée* : 1 an
-- *Site web* : <https://www.formasup-auvergne.fr/formations/master-2-ingenierie-nucleaire-physique-et-technologies-des-rayonnements-pour-lindustrie-et-la-physique-medicale/>
+- *Durée* : 1 an après le M1 "Physique des Rayonnements pour l'Industrie et la Physique Médicale" de Clermont-Ferrand ou équivalent
+- *Site web* : <https://www.uca.fr/formation/nos-formations/catalogue-des-formations/master-ingenierie-nucleaire>
 
 ## Masters en lien avec la physique médicale ne permettant pas l'inscription au concours du DQPRM
 
